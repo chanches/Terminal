@@ -1,0 +1,119 @@
+
+<HTML>
+<HEAD>
+	<TITLE>SANTA UNIX - Terminal</TITLE>
+	<!-- (c) Alagappan Karthikeyan 2006; www.karthik.sg; all rights reserved -->
+	<META name="description" content="SANTA LINUX WEB OS - virtual JavaScript-OS and UNIX-emulator">
+	<META name="keywords" content="SANTA LINUX WEB OS,JavaScript virtual UN*X,JavaScript virtual OS,JavaScript virtual Operating System,virtual Operating System for web browsers,JavaScript UNIX emulator">
+
+<STYLE TYPE="text/css">
+body,p,a,td {
+	font-family: courier,fixed;
+	font-size: 12px;
+	color: #33d011;
+}
+a,a:link,a:visited {
+	text-decoration: none;
+	color: #77dd11;
+}
+a:hover {
+	text-decoration: underline;
+	color: #77dd11;
+}
+a:active {
+	text-decoration: underline;
+	color: #dddddd;
+}
+
+.term {
+	font-family: courier,fixed;
+	font-size: 12px;
+	color: #33d011;
+	background: none;
+}
+
+termReverse,.termReverse {
+	font-family: courier,fixed;
+	font-size: 12px;
+	color: #111111;
+	background: #33d011;
+}
+
+grey,.grey {
+	font-family: courier,fixed;
+	font-size: 12px;
+	color: #999999;
+}
+
+disclaimer,.disclaimer {
+	font-family: courier,fixed;
+	font-size: 10px;
+	color: #999999;
+}
+
+keywords,.keywords {
+	font-family: arial,helvetica,sans-serif;
+	font-size: 10px;
+	color: #222222;
+}
+
+a.disclaimer,a.disclaimer:link,a.disclaimer:visited {
+	text-decoration: none;
+	color: #b0b0b0;
+}
+a.disclaimer:hover {
+	text-decoration: underline;
+	color: #77dd11;
+}
+a.disclaimer:active {
+	text-decoration: underline;
+	color: #dddddd;
+}
+
+a.termopen,a.termopen:link,a.termopen:visited {
+	text-decoration: none;
+	color: #77dd11;
+	background: none;
+}
+a.termopen:hover {
+	text-decoration: none;
+	color: #222222;
+	background: #77dd11;
+}
+a.termopen:active {
+	text-decoration: none;
+	color: #222222;
+	background: #dddddd;
+}
+
+</STYLE>
+
+<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_gui.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_krnl.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_shell.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_cmd.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_vi.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_inv.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_man.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_rc.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript1.5" SRC="jsuix_support/jsuix_trycatch.js" TYPE="text/javascript"></SCRIPT>
+</HEAD>
+
+<BODY  BGCOLOR="#002543" TEXT="#ffffff" LINK="#77dd11" ALINK="#dddddd" VLINK="#77dd11"
+TOPMARGIN="0" BOTTOMMARGIN="0" LEFTMARGIN="0" RIGHTMARGIN="0" MARGINHEIGHT="0" MARGINWIDTH="0">
+<TABLE BORDEER="0" CELLSPACING="0" CELLPADDING="0">
+
+<TR>
+<TD VALIGN="top" HEIGHT="18">
+SANTA LINUX WEB OS - Terminal
+<BR><BR>
+<A HREF="javascript:termOpen()" onfocus="if(this.blur)this.blur();" onmouseover="window.status='SANTA WEB OS: open terminal and boot system'; return true" onmouseout="window.status=''; return true" CLASS="termopen">&gt; Click Here to Open Terminal&nbsp;</A><BR><BR>	
+</TD>
+</TR>
+</TABLE>
+
+ <DIV ID="termDiv" STYLE="position:absolute; top:94; left:0;"></DIV>
+ <DIV ID="termKbdDiv" STYLE="position:absolute; top:364; left:0;visibility:hidden"></DIV>
+
+</BODY>
+</HTML>
