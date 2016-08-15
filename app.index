@@ -88,15 +88,15 @@ a.termopen:active {
 
 </STYLE>
 
-<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_gui.js" TYPE="text/javascript"></SCRIPT>
-<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_krnl.js" TYPE="text/javascript"></SCRIPT>
-<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_shell.js" TYPE="text/javascript"></SCRIPT>
-<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_cmd.js" TYPE="text/javascript"></SCRIPT>
-<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_vi.js" TYPE="text/javascript"></SCRIPT>
-<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_inv.js" TYPE="text/javascript"></SCRIPT>
-<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_man.js" TYPE="text/javascript"></SCRIPT>
-<SCRIPT LANGUAGE="JavaScript" SRC="jsuix_support/jsuix_rc.js" TYPE="text/javascript"></SCRIPT>
-<SCRIPT LANGUAGE="JavaScript1.5" SRC="jsuix_support/jsuix_trycatch.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="https://rawgit.com/chanches/Terminal/master/jsuix_support/jsuix_gui.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="https://rawgit.com/chanches/Terminal/master/jsuix_support/jsuix_krnl.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="https://rawgit.com/chanches/Terminal/master/jsuix_support/jsuix_shell.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="https://rawgit.com/chanches/Terminal/master/jsuix_support/jsuix_cmd.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="https://rawgit.com/chanches/Terminal/master/jsuix_support/jsuix_vi.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="https://rawgit.com/chanches/Terminal/master/jsuix_support/jsuix_inv.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="https://rawgit.com/chanches/Terminal/master/jsuix_support/jsuix_man.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="https://rawgit.com/chanches/Terminal/master/jsuix_support/jsuix_rc.js" TYPE="text/javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript1.5" SRC="https://rawgit.com/chanches/Terminal/master/jsuix_support/jsuix_trycatch.js" TYPE="text/javascript"></SCRIPT>
 </HEAD>
 
 <BODY  BGCOLOR="#002543" TEXT="#ffffff" LINK="#77dd11" ALINK="#dddddd" VLINK="#77dd11"
