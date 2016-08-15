@@ -1,10 +1,10 @@
 
 <HTML>
 <HEAD>
-	<TITLE>SANTA UNIX - Terminal</TITLE>
+	<TITLE>ÚLTIMAS POSTAGENS - Terminal</TITLE>
 	<!-- (c) Alagappan Karthikeyan 2006; www.karthik.sg; all rights reserved -->
-	<META name="description" content="SANTA LINUX WEB OS - virtual JavaScript-OS and UNIX-emulator">
-	<META name="keywords" content="SANTA LINUX WEB OS,JavaScript virtual UN*X,JavaScript virtual OS,JavaScript virtual Operating System,virtual Operating System for web browsers,JavaScript UNIX emulator">
+	<META name="description" content="KERNEL CORP - virtual JavaScript-OS and UNIX-emulator">
+	<META name="keywords" content="KERNEL CORP ,JavaScript virtual UN*X,JavaScript virtual OS,JavaScript virtual Operating System,virtual Operating System for web browsers,JavaScript UNIX emulator">
 
 <STYLE TYPE="text/css">
 body,p,a,td {
@@ -105,9 +105,9 @@ TOPMARGIN="0" BOTTOMMARGIN="0" LEFTMARGIN="0" RIGHTMARGIN="0" MARGINHEIGHT="0" M
 
 <TR>
 <TD VALIGN="top" HEIGHT="18">
-SANTA LINUX WEB OS - Terminal
+KERNEL CORP - Terminal
 <BR><BR>
-<A HREF="javascript:termOpen()" onfocus="if(this.blur)this.blur();" onmouseover="window.status='SANTA WEB OS: open terminal and boot system'; return true" onmouseout="window.status=''; return true" CLASS="termopen">&gt; Click Here to Open Terminal&nbsp;</A><BR><BR>	
+<A HREF="javascript:termOpen()" onfocus="if(this.blur)this.blur();" onmouseover="window.status='KERNEL CORP: open terminal and boot system'; return true" onmouseout="window.status=''; return true" CLASS="termopen">&gt; Click Here to Open Terminal&nbsp;</A><BR><BR>	
 </TD>
 </TR>
 </TABLE>
